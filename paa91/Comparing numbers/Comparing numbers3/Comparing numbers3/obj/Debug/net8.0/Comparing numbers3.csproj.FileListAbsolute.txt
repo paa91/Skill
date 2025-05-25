@@ -1,0 +1,14 @@
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\bin\Debug\net8.0\Comparing numbers3.exe
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\bin\Debug\net8.0\Comparing numbers3.deps.json
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\bin\Debug\net8.0\Comparing numbers3.runtimeconfig.json
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\bin\Debug\net8.0\Comparing numbers3.dll
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\bin\Debug\net8.0\Comparing numbers3.pdb
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\obj\Debug\net8.0\Comparing numbers3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\obj\Debug\net8.0\Comparing numbers3.AssemblyInfoInputs.cache
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\obj\Debug\net8.0\Comparing numbers3.AssemblyInfo.cs
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\obj\Debug\net8.0\Comparing numbers3.csproj.CoreCompileInputs.cache
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\obj\Debug\net8.0\Comparing numbers3.dll
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\obj\Debug\net8.0\refint\Comparing numbers3.dll
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\obj\Debug\net8.0\Comparing numbers3.pdb
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\obj\Debug\net8.0\Comparing numbers3.genruntimeconfig.cache
+D:\Учебные задания\Comparing numbers\Comparing numbers2\Comparing numbers3\Comparing numbers3\obj\Debug\net8.0\ref\Comparing numbers3.dll

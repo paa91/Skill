@@ -1,0 +1,14 @@
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\bin\Debug\net8.0\Exercise7.exe
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\bin\Debug\net8.0\Exercise7.deps.json
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\bin\Debug\net8.0\Exercise7.runtimeconfig.json
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\bin\Debug\net8.0\Exercise7.dll
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\bin\Debug\net8.0\Exercise7.pdb
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\obj\Debug\net8.0\Exercise7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\obj\Debug\net8.0\Exercise7.AssemblyInfoInputs.cache
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\obj\Debug\net8.0\Exercise7.AssemblyInfo.cs
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\obj\Debug\net8.0\Exercise7.csproj.CoreCompileInputs.cache
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\obj\Debug\net8.0\Exercise7.dll
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\obj\Debug\net8.0\refint\Exercise7.dll
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\obj\Debug\net8.0\Exercise7.pdb
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\obj\Debug\net8.0\Exercise7.genruntimeconfig.cache
+D:\Учебные задания\Exercise7\Exercise7\Exercise7\obj\Debug\net8.0\ref\Exercise7.dll

@@ -1,0 +1,14 @@
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\bin\Debug\net8.0\Exercise6.exe
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\bin\Debug\net8.0\Exercise6.deps.json
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\bin\Debug\net8.0\Exercise6.runtimeconfig.json
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\bin\Debug\net8.0\Exercise6.dll
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\bin\Debug\net8.0\Exercise6.pdb
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\obj\Debug\net8.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\obj\Debug\net8.0\Exercise6.AssemblyInfoInputs.cache
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\obj\Debug\net8.0\Exercise6.AssemblyInfo.cs
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\obj\Debug\net8.0\Exercise6.csproj.CoreCompileInputs.cache
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\obj\Debug\net8.0\Exercise6.dll
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\obj\Debug\net8.0\refint\Exercise6.dll
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\obj\Debug\net8.0\Exercise6.pdb
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\obj\Debug\net8.0\Exercise6.genruntimeconfig.cache
+D:\Учебные задания\Exercise6\Exercise6\Exercise6\obj\Debug\net8.0\ref\Exercise6.dll

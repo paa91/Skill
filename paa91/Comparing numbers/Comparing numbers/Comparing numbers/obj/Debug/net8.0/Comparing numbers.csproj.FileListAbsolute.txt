@@ -1,0 +1,14 @@
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\obj\Debug\net8.0\Comparing numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\obj\Debug\net8.0\Comparing numbers.AssemblyInfoInputs.cache
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\obj\Debug\net8.0\Comparing numbers.AssemblyInfo.cs
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\obj\Debug\net8.0\Comparing numbers.csproj.CoreCompileInputs.cache
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\bin\Debug\net8.0\Comparing numbers.exe
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\bin\Debug\net8.0\Comparing numbers.deps.json
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\bin\Debug\net8.0\Comparing numbers.runtimeconfig.json
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\bin\Debug\net8.0\Comparing numbers.dll
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\bin\Debug\net8.0\Comparing numbers.pdb
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\obj\Debug\net8.0\Comparing numbers.dll
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\obj\Debug\net8.0\refint\Comparing numbers.dll
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\obj\Debug\net8.0\Comparing numbers.pdb
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\obj\Debug\net8.0\Comparing numbers.genruntimeconfig.cache
+D:\Учебные задания\Comparing numbers\Comparing numbers\Comparing numbers\obj\Debug\net8.0\ref\Comparing numbers.dll

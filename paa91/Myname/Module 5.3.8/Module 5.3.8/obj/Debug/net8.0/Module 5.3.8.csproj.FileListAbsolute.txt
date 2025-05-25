@@ -1,0 +1,14 @@
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\obj\Debug\net8.0\Module 5.3.8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\obj\Debug\net8.0\Module 5.3.8.AssemblyInfoInputs.cache
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\obj\Debug\net8.0\Module 5.3.8.AssemblyInfo.cs
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\obj\Debug\net8.0\Module 5.3.8.csproj.CoreCompileInputs.cache
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\bin\Debug\net8.0\Module 5.3.8.exe
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\bin\Debug\net8.0\Module 5.3.8.deps.json
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\bin\Debug\net8.0\Module 5.3.8.runtimeconfig.json
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\bin\Debug\net8.0\Module 5.3.8.dll
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\bin\Debug\net8.0\Module 5.3.8.pdb
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\obj\Debug\net8.0\Module 5.3.8.dll
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\obj\Debug\net8.0\refint\Module 5.3.8.dll
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\obj\Debug\net8.0\Module 5.3.8.pdb
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\obj\Debug\net8.0\Module 5.3.8.genruntimeconfig.cache
+D:\Учебные задания\Myname\Module 5.3.8\Module 5.3.8\obj\Debug\net8.0\ref\Module 5.3.8.dll

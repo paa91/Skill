@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\obj\Debug\net8.0\MinMaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\obj\Debug\net8.0\MinMaxValue.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\obj\Debug\net8.0\MinMaxValue.AssemblyInfo.cs
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\obj\Debug\net8.0\MinMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\bin\Debug\net8.0\MinMaxValue.exe
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\bin\Debug\net8.0\MinMaxValue.deps.json
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\bin\Debug\net8.0\MinMaxValue.runtimeconfig.json
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\bin\Debug\net8.0\MinMaxValue.dll
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\bin\Debug\net8.0\MinMaxValue.pdb
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\obj\Debug\net8.0\MinMaxValue.dll
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\obj\Debug\net8.0\refint\MinMaxValue.dll
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\obj\Debug\net8.0\MinMaxValue.pdb
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\obj\Debug\net8.0\MinMaxValue.genruntimeconfig.cache
+C:\Users\User\Documents\Учеба\MinMaxValue\MinMaxValue\obj\Debug\net8.0\ref\MinMaxValue.dll
